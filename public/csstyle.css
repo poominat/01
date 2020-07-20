@@ -1,0 +1,44 @@
+@@ -1,43 +0,0 @@
+body{
+    font-family: 'Itim', cursive;
+}
+.cshead{
+    border-radius: 20px;
+    background-color:skyblue;
+    height: 120px;
+    display: flex;
+    justify-content:  left;
+    align-items:  center;
+
+    
+}
+.subtitle{
+    border-radius: 20px;
+    background-color: pink;
+    height: 70px;
+    padding: 10px;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.deli{
+    border-radius: 20px;
+    background-color: white;
+    height: 145px;
+    padding: 10px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+}
+.new{
+    border-radius: 20px;
+    background-color: yellowgreen;
+    height: 70px;
+    padding: 10px;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
